@@ -1,5 +1,5 @@
 # Long Numbers Cauclator
-A http API for adding and multipliy 2 long numbers
+A http API for adding and multiply 2 long numbers
 
 ## How to run it?
 Simply pull this repository from your VS
@@ -14,7 +14,7 @@ For example to add two long numbers we send:
 ```
 To multipliy:
 ```
-{copy url}/api/multipliy?numA={firstNumber}&numB={secondNumber}
+{copy url}/api/multiply?numA={firstNumber}&numB={secondNumber}
 ```
 After that it will show you your result on the screen(if you give two valid numbers).
 
